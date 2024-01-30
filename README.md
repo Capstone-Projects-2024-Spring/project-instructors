@@ -9,6 +9,29 @@
 </div>
 
 
+```
+                           nnnmmm
+            \||\       ;;;;%%%@@@@@@       \ //,
+             V|/     %;;%%%%%@@@@@@@@@@  ===Y//
+             68=== ;;;;%%%%%%@@@@@@@@@@@@    @Y
+             ;Y   ;;%;%%%%%%@@@@@@@@@@@@@@    Y
+             ;Y  ;;;+;%%%%%%@@@@@@@@@@@@@@@    Y
+             ;Y__;;;+;%%%%%%@@@@@@@@@@@@@@i;;__Y
+            iiY"";;   "uu%@@@@@@@@@@uu"   @"";;;>
+                   Y     "UUUUUUUUU"     @@
+                   `;       ___ _       @
+                     `;.  ,====\\=.  .;'
+                       ``""""`==\\=='
+                              `;=====
+                                ===
+William "WILLS" Towle  <cszwt2@scs.leeds.ac.uk>
+
+------------------------------------------------
+Thank you for visiting https://asciiart.website/
+This ASCII pic can be found at
+https://asciiart.website/index.php?art=logos%20and%20insignias/smiley
+```
+
 ## Keywords
 
 Section #, as well as any words that quickly give your peers insights into the application like programming language, development platform, type of application, etc.
